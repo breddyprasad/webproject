@@ -3,7 +3,7 @@
   <groupId>com.demo.app</groupId>
   <artifactId>webproject</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>webproject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -11,7 +11,7 @@
    <connection>scm:git:git@github.com:breddyprasad/webproject.git</connection>
     <developerConnection>scm:git:git@github.com:breddyprasad/webproject.git</developerConnection>
     <url>scm:git:git@github.com:breddyprasad/webproject.git</url>
-  <tag>webproject-0.0.2</tag>
+  <tag>HEAD</tag>
   </scm>
 
 <distributionManagement>
